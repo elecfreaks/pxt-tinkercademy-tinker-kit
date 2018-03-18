@@ -9,7 +9,8 @@
     },
     "files": [
         "README.md",
-        "tinkercademy.ts"
+        "tinkercademy.ts",
+        "_locales/zh/tinker-strings.json"
     ],
     "testFiles": [
     ],
